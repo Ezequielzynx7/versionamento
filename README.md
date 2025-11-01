@@ -4,8 +4,9 @@
 
 ## 👋 Introdução
 
-**Nome:** Ezequiel  
+**Nome:** Ezequiel sousa 
 **Cargo / Função:** Aluno
+
 **Instituição:** Senai   
 **Contato:**  
 📧 ezequielzyn.x7@email.com  
